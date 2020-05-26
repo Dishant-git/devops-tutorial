@@ -2,7 +2,7 @@
 FROM node:7-onbuild
 
 # set maintainer
-LABEL maintainer "miiro@getintodevops.com"
+LABEL maintainer "Dishant"
 
 # set a health check
 #HealthCheck is for checking the server whether it is up or not
